@@ -40,25 +40,27 @@ v
 H2 Database (latest device status)
 
 ---
-
-##  ✅ API Endpoints
-
-### Check-in (from device)
-`POST /api/device/checkin`
-
-Example:
-```bash
-curl -X POST http://localhost:8080/api/device/checkin \
-  -H "Content-Type: application/json" \
-  -d '{"deviceId":"lewis-test-1","batteryPercent":87,"networkType":"WIFI"}'
-
-
----
 ### List devices
 
 GET /api/devices
 
 Example:
 curl http://localhost:8080/api/devices | python3 -m json.tool
+
+---
+
+##  ✅ API Endpoints
+
+## Check-in (from device)
+`POST /api/device/checkin`
+
+Example:
+```bash
+curl -X POST http://localhost:8080/api/device/checkin \
+  -H "Content-Type: application/json" \
+  -d '{"deviceId":"lewis-test-1","batteryPercent":87,"networkType":"WIFI"}
+
+---
+
 
 

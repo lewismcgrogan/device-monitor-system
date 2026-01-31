@@ -1,0 +1,7 @@
+/Users/lewismcgrogan/Desktop/device-monitor/backend/src/main/java/com/lewis/devicemonitor/DeviceMonitorApplication.java
+/Users/lewismcgrogan/Desktop/device-monitor/backend/src/main/java/com/lewis/devicemonitor/api/DeviceController.java
+/Users/lewismcgrogan/Desktop/device-monitor/backend/src/main/java/com/lewis/devicemonitor/api/dto/DeviceCheckInRequest.java
+/Users/lewismcgrogan/Desktop/device-monitor/backend/src/main/java/com/lewis/devicemonitor/api/dto/DeviceResponse.java
+/Users/lewismcgrogan/Desktop/device-monitor/backend/src/main/java/com/lewis/devicemonitor/domain/DeviceStatus.java
+/Users/lewismcgrogan/Desktop/device-monitor/backend/src/main/java/com/lewis/devicemonitor/repo/DeviceStatusRepository.java
+/Users/lewismcgrogan/Desktop/device-monitor/backend/src/main/java/com/lewis/devicemonitor/service/DeviceService.java

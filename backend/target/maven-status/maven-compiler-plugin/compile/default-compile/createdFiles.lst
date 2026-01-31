@@ -1,7 +1,0 @@
-com/lewis/devicemonitor/api/dto/DeviceCheckInRequest.class
-com/lewis/devicemonitor/api/DeviceController.class
-com/lewis/devicemonitor/DeviceMonitorApplication.class
-com/lewis/devicemonitor/service/DeviceService.class
-com/lewis/devicemonitor/domain/DeviceStatus.class
-com/lewis/devicemonitor/repo/DeviceStatusRepository.class
-com/lewis/devicemonitor/api/dto/DeviceResponse.class

@@ -1,20 +1,19 @@
-# Gradle
-.gradle/
-build/
-**/build/
+# ===== Java / Maven =====
+backend/target/
+*.class
 
-# Android
+# ===== Gradle / Android =====
+.gradle/
+**/build/
 *.apk
 *.ap_
 local.properties
 
-# IDEs
+# ===== IDEs =====
 .idea/
 .vscode/
 *.iml
 
-# OS
+# ===== OS / misc =====
 .DS_Store
-
-# Logs
 *.log
